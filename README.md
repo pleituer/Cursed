@@ -11,3 +11,5 @@ Hit enter and let it compile, then after compiling, run the command `./main` to 
 
 You can control the red dot (this is just for demonstration on the module, i haven't have time to document this yet)
 Hitting up, down, left, and right can make the red dot move resepectively.
+
+Hit 'q' to exit
